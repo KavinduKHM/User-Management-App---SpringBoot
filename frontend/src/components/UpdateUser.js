@@ -106,7 +106,7 @@ function UpdateUser() {
                     onChange={handleChange}
                 />
             </div>
-            <button type="submit">Update User</button>
+            <button type="submit">Updates User</button>
         </form>
         )}
     </div>
